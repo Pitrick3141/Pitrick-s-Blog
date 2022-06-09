@@ -1,11 +1,8 @@
 ---
-weight: 1
 title: "新的开始"
 date: 2021-12-09
 draft: false
-author: "PiTrick"
-authorLink: "https://cv.pitrick.tk"
-description: "The beginning is always today"
+description: "介绍博客的发展历史"
 images: []
 resources:
 - name: "featured-image"

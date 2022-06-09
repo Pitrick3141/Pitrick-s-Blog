@@ -1,10 +1,7 @@
 ---
-weight: 1
 title: "Window下TensorFlow环境的配置(GPU)"
 date: 2021-12-28
 draft: false
-author: "PiTrick"
-authorLink: "https://cv.pitrick.tk"
 description: "Windows系统下TensorFlow的安装及配置教程"
 images: []
 resources:
@@ -17,13 +14,12 @@ categories: ["tutorials"]
 lightgallery: true
 ---
 
-
-TensorFlow是一个能方便的搭建神经网络实现深度学习或强化学习的第三方Python库。
+Windows系统下TensorFlow的安装及配置教程
 <!--more-->
 
 ## 1 介绍
 
-相信许多人对TensorFlow并不陌生，当在家用电脑上训练较大的数据集时，可能会消耗较长的时间。这时如果你的电脑有一个较好的显卡，使用GPU加速就不失为一个好方法。
+TensorFlow是一个能方便的搭建神经网络实现深度学习或强化学习的第三方Python库。相信许多人对TensorFlow并不陌生，当在家用电脑上训练较大的数据集时，可能会消耗较长的时间。这时如果你的电脑有一个较好的显卡，使用GPU加速就不失为一个好方法。
 
 *注：本文整合了几篇我摸索时借鉴的教程，仅供学习交流使用*
 
