@@ -8,7 +8,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["python","tensonflow"]
+tags: ["python","tensorflow"]
 categories: ["tutorials"]
 
 lightgallery: true
