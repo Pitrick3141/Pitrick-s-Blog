@@ -48,7 +48,7 @@ enableEmoji = true
 # 作者配置
 [author]
   name = "PiTrick"
-  email = "contact@pitrick.tk"
+  email = "contact@pitrick.link"
   link = "https://blog.pitrick.link"
 
 # Menu config
@@ -859,7 +859,7 @@ params = ["categories", "tags"]
         Instagram = "yichen314159"
         Facebook = "Yichen3141"
         Bilibili = "16050492"
-        Email = "contact@pitrick.tk"
+        Email = "contact@pitrick.link"
         RSS = true
 
   [languages.zh-cn]
@@ -903,8 +903,9 @@ params = ["categories", "tags"]
         url = "/about/"
         title = ""
     [languages.zh-cn.params]
-      [languages.zh-cn.params.header]
+      [languages.zh-cn.params.header.title]
         name = "PiTrick的博客"
+        logo = "https://s4.ax1x.com/2021/12/29/T6bUj1.jpg"
       [languages.zh-cn.params.search]
         enable = true
         type = "algolia"
@@ -935,5 +936,5 @@ params = ["categories", "tags"]
         Instagram = "yichen314159"
         Facebook = "Yichen3141"
         Bilibili = "16050492"
-        Email = "contact@pitrick.tk"
+        Email = "contact@pitrick.link"
         RSS = true
