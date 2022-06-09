@@ -1,12 +1,12 @@
 ---
-title: "New Start"
-date: 2021-12-09
-draft: false
-description: "Introduction of the development of the blog"
+title: "Montréal-Québec Trip Plan"
+date: 2022-06-09
+draft: true
+description: "The beginning is always today"
 images: []
 resources:
 - name: "featured-image"
-  src: "featured-image.jpg"
+  src: "featured-image.png"
 
 tags: ["blog"]
 categories: ["writings"]

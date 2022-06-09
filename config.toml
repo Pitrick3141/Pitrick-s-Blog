@@ -383,6 +383,8 @@ enableEmoji = true
     # whether to show the full text content in RSS
     # 是否在 RSS 中显示全文内容
     rssFullText = true
+    author = "PiTrick"
+    authorLink = "https://cv.pitrick.link"
     # Table of the contents config
     # 目录配置
     [params.page.toc]
@@ -453,7 +455,7 @@ enableEmoji = true
       Twitter = true
       Facebook = true
       Linkedin = false
-      Whatsapp = false
+      Whatsapp = true
       Pinterest = false
       Tumblr = false
       HackerNews = false
@@ -467,7 +469,7 @@ enableEmoji = true
       Flipboard = false
       Weibo = true
       Blogger = false
-      Baidu = true
+      Baidu = false
       Odnoklassniki = false
       Evernote = false
       Skype = false
