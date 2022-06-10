@@ -1,11 +1,10 @@
 ---
-title: "春假旅行计划"
+title: "[已归档]春假旅行计划"
 date: 2022-02-25
 draft: false
 description: "2022年春假旅行的计划"
 images: []
-resources:
-
+hiddenFromHomePage: true
 tags: ["personal","trips"]
 categories: ["writings"]
 
