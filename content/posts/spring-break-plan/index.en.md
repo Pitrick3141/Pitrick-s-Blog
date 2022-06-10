@@ -4,7 +4,7 @@ date: 2022-02-25
 draft: true
 description: "The beginning is always today"
 images: []
-
+hiddenFromHomePage: true
 tags: ["blog"]
 categories: ["writings"]
 
