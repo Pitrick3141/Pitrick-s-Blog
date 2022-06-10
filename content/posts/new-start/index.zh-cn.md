@@ -17,6 +17,23 @@ lightgallery: true
 
 *哦！欢迎，我的朋友！*
 <!--more-->
+
+{{< admonition info "被迁移的博客" false>}}
+
+**该博客由旧版的Wordpress博客迁移，格式可能稍有改变**
+
+*下面是旧版博客原文*
+
+{{< admonition warning "旧版博客即将停止服务">}}
+
+**下面的链接指向旧版博客(pitrick.tk),<span style = "color:red;">该博客预计在2022年9月停止服务</span>**
+
+[查看旧版博客原文](https://pitrick.tk/zh/new_start/)
+
+{{< /admonition >}}
+
+{{< /admonition >}}
+
 >## <span style = "color:orange;">“*The beginning is always today.*”</span>
 >
 ><span style = "color:gray;">**-Mary Wollstonecraft Shelley**</span>

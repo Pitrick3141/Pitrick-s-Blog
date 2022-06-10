@@ -1,12 +1,9 @@
 ---
-title: "New Start"
-date: 2021-12-09
-draft: false
-description: "Introduction of the development of the blog"
+title: "March Break Plan"
+date: 2022-02-25
+draft: true
+description: "The beginning is always today"
 images: []
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
 
 tags: ["blog"]
 categories: ["writings"]
@@ -16,25 +13,7 @@ lightgallery: true
 
 
 *HOHOHO! Welcome, my friend!*
-
 <!--more-->
-
-{{< admonition info "Migrated Blog" false>}}
-
-**This blog is migrated from an old Wordpress blog. The format may be affected when converted**
-
-*The link to the old blog original is attached below*
-
-{{< admonition warning "The old blog will soon STOP SERVICE">}}
-
-**The link below points to the old blog website (pitrick.tk),<span style = "color:red;">The old blog website is estimated to STOP SERVICE in September 2022</span>**
-
-[View old blog original](https://pitrick.tk/en/new_start/)
-
-{{< /admonition >}}
-
-{{< /admonition >}}
-
 >## <span style = "color:orange;">“*The beginning is always today.*”</span>
 >
 ><span style = "color:gray;">**-Mary Wollstonecraft Shelley**</span>
