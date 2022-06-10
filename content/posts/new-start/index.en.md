@@ -29,7 +29,7 @@ lightgallery: true
 
 **The link below points to the old blog website (pitrick.tk),<span style = "color:red;">The old blog website is estimated to STOP SERVICE in September 2022</span>**
 
-[View old blog original](https://pitrick.tk/en/new_start/)
+[View old blog original](https://pitrick.tk/en/the-new-start/)
 
 {{< /admonition >}}
 
