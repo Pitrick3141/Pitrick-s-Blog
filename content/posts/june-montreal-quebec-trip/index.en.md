@@ -32,7 +32,7 @@ It has been in the middle of June. Months of summer vacation is approaching. My 
 
 **The blog is translated from Simplified Chinese manually and there might be grammar and spelling mistakes.**
 
-Free free to *Contact Me* if you have located any mistakes.
+Feel free to *Contact Me* if you have located any mistakes.
 
 Your correction is **highly appreciated and welcomed**.
 
@@ -40,7 +40,7 @@ Your correction is **highly appreciated and welcomed**.
 
 ## 0 Introduction:mag:
 
-I used to plan to go to **Ottawa**, **Montréal** and **Québec** with my friends during our spring break in March. However, we have to *postpone the plan indefinitely* due to COVID.
+I used to plan to go to **Ottawa**, **Montréal** and **Québec** with my friends during our spring break in March. However, we had to *postpone the plan indefinitely* due to COVID.
 
 On a random day at the beginning of June, my friends and I talked about our plan for summer. We found that none of us are returning to our country and therefore we came up with the plan of traveling. At first, we planned to travel in **Alberta**. But our spare time doesn't fit and we finally agreed to make a short-term trip in **Québec**. Having determined the time, we made a quick arrangement of Montréal and Québec city. We have made the scheme quickly on the basis of the previous research in March. We have booked all tickets and stays within a week to leave more time for arrangement and dealing with accidents.
 
@@ -53,6 +53,32 @@ Our Trip will be taking place during **June 24 and June 28**. The last Exam day 
 ### 6.24 Toronto - Montréal
 
 We will wake up very early in the morning and gather in the Toronto [**Union Staion**](https://goo.gl/maps/wJYxyXxrn9btcfgv7). We will get to Montréal by VIA Rail at **6:47**, we will arrive at the Montréal [**Gare Centrale**](https://goo.gl/maps/MGpg5traZBzEJy8y9) at approximately **12:04**. We will check in at the local [**Airbnb**](https://www.airbnb.ca/)[^3] at 1pm.
+
+#### Weather
+
+*Day(Toronto)* :partly_sunny:
+
+**Generally sunny despite a few afternoon clouds. High 26C.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ------------------| -------------------- | --------------------- | ------------------- |
+| **SE 17 km/h**           | **61%**           | **8/10**             | **5:37am**            | **9:03pm**          |
+
+*Day(Montréal)* :partly_sunny:
+
+**Partly cloudy skies. Slight chance of a rain shower. High 27C. Winds light and variable.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ----------------- | -------------------- | --------------------- | ------------------- |
+| **SSW 6 km/h**           | **64%**           | **8/10**             | **5:06am**            | **8:47pm**          |
+
+*Night(Montréal)* :cloud_with_lightning_and_rain:
+
+**Scattered thunderstorms during the evening, then partly cloudy overnight. Low 18C. Winds light and variable. Chance of rain 40%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
+| ------------------------ | ----------------- | ----------------------------------------- |
+| **SSW 4 km/h**           | **71%**           | **Waning Crescent**:waning_crescent_moon: |
 
 #### Places to GO:camera:
 
@@ -78,6 +104,32 @@ We will wake up very early in the morning and gather in the Toronto [**Union Sta
 ### 6.25 Montréal - Québec
 
 We will check out before 10am and have a short tour in Montréal. We will go to [**Autocars de Montréal**](https://goo.gl/maps/KTVkK2M2ykrA3EzA9) to take the Orléans Express at **13:00** to Québec city. We will arrive at the [**Gare du Palais**](https://goo.gl/maps/9RbiBXZosGz1MBFZ8) at approximately **16:40**. We will check in at the [**Auberge Internationale de Québec**](https://g.page/auberge-internationale-de-quebec?share) as soon as we get to Québec. We will visit the **Downtown** or **Old Town** of Québec.
+
+#### Weather
+
+*Day(Montréal)* :partly_sunny:
+
+**Partly cloudy. High 27C. Winds light and variable.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ------------------| -------------------- | --------------------- | ------------------- |
+| **ESE 6 km/h**           | **55%**           | **8/10**             | **5:08am**            | **8:47pm**          |
+
+*Day(Québec)* :cloud_with_rain:
+
+**A shower or two possible early with partly cloudy skies in the afternoon. High 26C. Chance of rain 30%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ----------------- | -------------------- | --------------------- | ------------------- |
+| **WSW 11 km/h**           | **69%**           | **8/10**             | **4:51am**            | **8:43pm**          |
+
+*Night(Québec)* :cloud_with_rain:
+
+**An isolated thunderstorm possible during the evening, then occasional showers overnight. Low 17C. Winds light and variable. Chance of rain 60%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
+| ------------------------ | ----------------- | ----------------------------------------- |
+| **NE 7 km/h**           | **78%**           | **Waning Crescent**:waning_crescent_moon: |
 
 ### 6.26 Québec
 

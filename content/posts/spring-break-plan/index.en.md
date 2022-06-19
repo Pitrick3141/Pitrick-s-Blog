@@ -28,7 +28,7 @@ It's another spring break and I decided to make a short-term trip to a relativel
 
 **The blog is translated from Simplified Chinese manually and there might be grammar and spelling mistakes.**
 
-Free free to *Contact Me* if you have located any mistakes.
+Feel free to *Contact Me* if you have located any mistakes.
 
 Your correction is **highly appreciated and welcomed**.
 
