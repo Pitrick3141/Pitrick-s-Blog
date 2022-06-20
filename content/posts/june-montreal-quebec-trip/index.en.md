@@ -62,7 +62,7 @@ We will wake up very early in the morning and gather in the Toronto [**Union Sta
 
 | Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
 | ------------------------ | ------------------| -------------------- | --------------------- | ------------------- |
-| **SE 17 km/h**           | **61%**           | **8/10**             | **5:37am**            | **9:03pm**          |
+| **SE 18 km/h**           | **57%**           | **8/10**             | **5:37am**            | **9:03pm**          |
 
 *Day(Montréal)* :partly_sunny:
 
@@ -70,15 +70,15 @@ We will wake up very early in the morning and gather in the Toronto [**Union Sta
 
 | Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
 | ------------------------ | ----------------- | -------------------- | --------------------- | ------------------- |
-| **SSW 6 km/h**           | **64%**           | **8/10**             | **5:06am**            | **8:47pm**          |
+| **SW 4 km/h**           | **60%**           | **8/10**             | **5:06am**            | **8:47pm**          |
 
-*Night(Montréal)* :cloud_with_lightning_and_rain:
+*Night(Montréal)* :cloud:
 
-**Scattered thunderstorms during the evening, then partly cloudy overnight. Low 18C. Winds light and variable. Chance of rain 40%.**
+**Partly cloudy skies. Low 18C. Winds light and variable.**
 
 | Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
 | ------------------------ | ----------------- | ----------------------------------------- |
-| **SSW 4 km/h**           | **71%**           | **Waning Crescent**:waning_crescent_moon: |
+| **SW 4 km/h**           | **67%**           | **Waning Crescent**:waning_crescent_moon: |
 
 #### Places to GO:camera:
 
@@ -109,19 +109,19 @@ We will check out before 10am and have a short tour in Montréal. We will go to 
 
 *Day(Montréal)* :partly_sunny:
 
-**Partly cloudy. High 27C. Winds light and variable.**
+**Partly cloudy. High 29C. Winds light and variable.**
 
 | Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
 | ------------------------ | ------------------| -------------------- | --------------------- | ------------------- |
-| **ESE 6 km/h**           | **55%**           | **8/10**             | **5:08am**            | **8:47pm**          |
+| **SSW 5 km/h**           | **57%**           | **8/10**             | **5:06am**            | **8:47pm**          |
 
-*Day(Québec)* :cloud_with_rain:
+*Day(Québec)* :partly_sunny:
 
-**A shower or two possible early with partly cloudy skies in the afternoon. High 26C. Chance of rain 30%.**
+**Partly cloudy skies. High 28C.**
 
 | Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
 | ------------------------ | ----------------- | -------------------- | --------------------- | ------------------- |
-| **WSW 11 km/h**           | **69%**           | **8/10**             | **4:51am**            | **8:43pm**          |
+| **SW 10 km/h**           | **66%**           | **8/10**             | **4:51am**            | **8:43pm**          |
 
 *Night(Québec)* :cloud_with_rain:
 
@@ -129,9 +129,27 @@ We will check out before 10am and have a short tour in Montréal. We will go to 
 
 | Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
 | ------------------------ | ----------------- | ----------------------------------------- |
-| **NE 7 km/h**           | **78%**           | **Waning Crescent**:waning_crescent_moon: |
+| **NE 8 km/h**           | **84%**           | **Waning Crescent**:waning_crescent_moon: |
 
 ### 6.26 Québec
+
+#### Weather
+
+*Day* :sun_behind_rain_cloud:
+
+**Variable clouds with scattered thunderstorms. High 28C. Chance of rain 60%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ----------------- | -------------------- | --------------------- | ------------------- |
+| **S 12 km/h**           | **70%**           | **6/10**             | **4:52am**            | **8:43pm**          |
+
+*Night* :cloud_with_rain:
+
+**Mostly cloudy with showers and a few thunderstorms. Low 18C. Winds light and variable. Chance of rain 60%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
+| ------------------------ | ----------------- | ----------------------------------------- |
+| **SSW 8 km/h**           | **85%**           | **Waning Crescent**:waning_crescent_moon: |
 
 Stay: Auberge Internationale de Québec
 
@@ -144,6 +162,24 @@ Stay: Auberge Internationale de Québec
 | Natural | Montmorency Falls  | [Quebec City, QC](https://goo.gl/maps/aERKJP55LJbHLb3MA)                             |
 
 ### 6.27 Québec
+
+#### Weather
+
+*Day* :cloud_with_rain:
+
+**Cloudy with occasional rain showers. High 23C. Chance of rain 60%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ----------------- | -------------------- | --------------------- | ------------------- |
+| **SW 13 km/h**           | **58%**           | **6/10**             | **4:52am**            | **8:43pm**          |
+
+*Night* :cloud_with_rain:
+
+**Cloudy with showers. Low 13C. Chance of rain 60%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
+| ------------------------ | ----------------- | ----------------------------------------- |
+| **WNW 10 km/h**           | **78%**           | **Waning Crescent**:waning_crescent_moon: |
 
 Stay: Auberge Internationale de Québec
 
@@ -160,6 +196,24 @@ Stay: Auberge Internationale de Québec
 | Cultural | Goblin Red Door                | [68 Rue du Petit Champlain, Québec, QC G1K 4H5](https://goo.gl/maps/JGPJPee6cBzcGSu16)                                 |
 
 ### 6.28 Québec - Toronto
+
+#### Weather
+
+*Day(Québec)* :cloud_with_rain:
+
+**Cloudy with occasional rain showers. High 22C. Chance of rain 50%.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | UV Index:sunglasses: | Sunrise:city_sunrise: | Sunset:city_sunset: |
+| ------------------------ | ------------------| -------------------- | --------------------- | ------------------- |
+| **SW 12 km/h**           | **62%**           | **8/10**             | **4:53am**            | **8:43pm**          |
+
+*Night(Toronto)* :crescent_moon:
+
+**A mostly clear sky. Low 16C.**
+
+| Wind:(fa-solid fa-wind): | Humidity:droplet: | Moon Phase:crescent_moon:                 |
+| ------------------------ | ----------------- | ----------------------------------------- |
+| **NNW 17 km/h**           | **59%**           | **New Moon**:new_moon: |
 
 Check out at **11:00** and continue our trip in Québec city. Go to Gare du Palais for the VIA Rail to Montréal which sets off at **12:36**. Arrive at Montréal at approximately **15:54** and set off again at **16:56**. Eventually get to Toronto Union Station at **22:03** and get home.
 
