@@ -235,35 +235,19 @@ Check out at **11:00** and continue our trip in Québec city. Go to Gare du Pala
 
 ## 3 Travel Diary:blue_book:
 
-{{< admonition tip "Real-time Update">}}
-**The actual route will be listed here everyday. It's approximately real-time updated**
+{{< admonition info "Translating...">}}
+
+This content has not been translated yet. All content will be translated manually. Please allow more time for translation.
+
 {{< /admonition >}}
-
-### 6.23 Day 0
-The day has not yet arrived. I'm expecting it so much~
-
-
-### 6.24 Day 1
-The day has not yet arrived. I'm expecting it so much~
-
-
-### 6.25 Day 2
-The day has not yet arrived. I'm expecting it so much~
-
-
-### 6.26 Day 3
-The day has not yet arrived. I'm expecting it so much~
-
-
-### 6.27 Day 4
-The day has not yet arrived. I'm expecting it so much~
-
-
-### 6.28 Day 5
-The day has not yet arrived. I'm expecting it so much~
 
 ## 4 Travel Summary:trophy:
 
+{{< admonition info "Translating...">}}
+
+This content has not been translated yet. All content will be translated manually. Please allow more time for translation.
+
+{{< /admonition >}}
 
 [^1]:a Canadian Crown corporation that is mandated to operate intercity passenger rail service in Canada.
 [^2]:a coach operator in Quebec, Canada.
